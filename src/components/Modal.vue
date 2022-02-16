@@ -1,4 +1,3 @@
-import { mapMutations } from 'vuex';
 <template>
   <div class="modal flex">
       <div class="modal-content">
